@@ -1,0 +1,21 @@
+Watching for file changes with StatReloader
+Unauthorized: /user/login/
+[30/Oct/2023 12:10:01] "POST /user/login/ HTTP/1.1" 401 43
+[30/Oct/2023 12:10:13] "POST /user/login/ HTTP/1.1" 200 549
+[30/Oct/2023 12:10:28] "GET /fairytale/list/ HTTP/1.1" 200 16326965
+[30/Oct/2023 12:10:37] "GET /fairytale/list/ HTTP/1.1" 200 16326965
+[30/Oct/2023 12:10:58] "GET /fairytale/list/ HTTP/1.1" 200 16326965
+[30/Oct/2023 12:13:21] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 327
+[30/Oct/2023 12:13:32] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 227
+[30/Oct/2023 12:13:40] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 217
+[30/Oct/2023 12:13:48] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 749
+[30/Oct/2023 12:13:59] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 148
+[30/Oct/2023 12:14:09] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 309
+[30/Oct/2023 12:14:23] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 262
+[30/Oct/2023 12:14:36] "POST /gpt/compatibility/ HTTP/1.1" 200 63
+[30/Oct/2023 12:14:57] "POST /gpt/compatibility/ HTTP/1.1" 200 63
+[30/Oct/2023 12:16:18] "POST /gpt/compatibility/ HTTP/1.1" 200 63
+[30/Oct/2023 12:16:33] "POST /gpt/compatibility/ HTTP/1.1" 200 63
+[30/Oct/2023 12:17:13] "POST /gpt/compatibility/ HTTP/1.1" 200 63
+[30/Oct/2023 12:17:43] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 411
+[30/Oct/2023 12:18:01] "POST /gpt/first_recommend_next/ HTTP/1.1" 200 180
